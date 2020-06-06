@@ -18,14 +18,14 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "korean-Korea"
 title                    : "Keep Trying"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "'열심히' 보단 '잘' 하려 노력하는 개발자" # site tagline that appears below site title in masthead
 name                     : "Kim Jong Sin"
 description              : "Android & Algorithm & Anything"
 url                      : "https://jjjoonngg.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo.jpeg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "JJJoonngg"
-  avatar           : "/assets/images/me.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/me.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Android & Algorithm"
   location         : "Korea, Seoul"
   email            : "whdtls3878@gmail.com"
