@@ -1,0 +1,9 @@
+main:
+  - title: "Blog"
+    url: https://jjjoonngg.github.io/
+  - title: "Posts"
+    url: /posts/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
