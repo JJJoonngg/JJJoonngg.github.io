@@ -19,7 +19,7 @@ Gemfile.lock
 **/vendor/bundle
 
 # Jekyll generated files
-.jekyll-cache
+.jekyll-cache/
 .jekyll-metadata
 
 ### macOS ###
