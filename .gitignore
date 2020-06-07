@@ -4,6 +4,23 @@
 
 ### Jekyll ###
 _site/
+# Vim
+*~
+*.sw[p_]
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Ruby Gem
+*.gem
+.bundle
+Gemfile.lock
+**/vendor/bundle
+
+# Jekyll generated files
+.jekyll-cache
+.jekyll-metadata
 
 ### macOS ###
 # General
