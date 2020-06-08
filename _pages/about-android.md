@@ -1,8 +1,8 @@
 ---
-title:"About Android"
-permalink:/categories/android/
-layout:category
-author_profile:true
+title: "About Android"
+permalink: /categories/android/
+layout: category
+author_profile: true
 taxonomy: Android
 
 ---

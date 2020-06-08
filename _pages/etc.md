@@ -1,8 +1,8 @@
 ---
 title: "ETC"
-permalink:/categories/etc/
-layout:category
-author_profile:true
+permalink: /categories/etc/
+layout: category
+author_profile: true
 taxonomy: Etc
 ---
 

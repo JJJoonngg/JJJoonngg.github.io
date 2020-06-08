@@ -1,8 +1,8 @@
 ---
 titls : "Tags"
-permalink:/tags/
-layout:tags
-author_profile:true
+permalink: /tags/
+layout: tags
+author_profile: true
 ---
 
 
