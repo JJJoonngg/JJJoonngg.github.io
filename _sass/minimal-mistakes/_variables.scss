@@ -30,7 +30,7 @@ $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
 
 $global-font-family: $sans-serif !default;
-$header-font-family: $sans-serif !default;
+$header-font-family: 40px !default;
 $caption-font-family: $serif !default;
 
 /* type scale */
@@ -151,9 +151,13 @@ $max-width: $x-large !default;
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow: 200px !default;
-$right-sidebar-width: 300px !default;
-$right-sidebar-width-wide: 400px !default;
+   $right-sidebar-width-narrow: 200px !default;
+   $right-sidebar-width: 200px !default;
+   $right-sidebar-width-wide: 200px !default;
+
+// $right-sidebar-width-narrow: 200px !default;
+// $right-sidebar-width: 300px !default;
+// $right-sidebar-width-wide: 400px !default;
 
 /*
    Other
